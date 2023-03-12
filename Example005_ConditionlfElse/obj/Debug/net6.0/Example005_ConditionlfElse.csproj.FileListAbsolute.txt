@@ -1,0 +1,15 @@
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\Example005_ConditionlfElse.csproj.AssemblyReference.cache
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\Example005_ConditionlfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\Example005_ConditionlfElse.AssemblyInfoInputs.cache
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\Example005_ConditionlfElse.AssemblyInfo.cs
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\Example005_ConditionlfElse.csproj.CoreCompileInputs.cache
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\bin\Debug\net6.0\Example005_ConditionlfElse.exe
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\bin\Debug\net6.0\Example005_ConditionlfElse.deps.json
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\bin\Debug\net6.0\Example005_ConditionlfElse.runtimeconfig.json
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\bin\Debug\net6.0\Example005_ConditionlfElse.dll
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\bin\Debug\net6.0\Example005_ConditionlfElse.pdb
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\Example005_ConditionlfElse.dll
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\refint\Example005_ConditionlfElse.dll
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\Example005_ConditionlfElse.pdb
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\Example005_ConditionlfElse.genruntimeconfig.cache
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\C#\Examples\Example005_ConditionlfElse\obj\Debug\net6.0\ref\Example005_ConditionlfElse.dll
